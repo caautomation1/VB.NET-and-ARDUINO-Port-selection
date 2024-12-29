@@ -3,4 +3,4 @@ VB.NET and ARDUINO Port selection Combo Box
 
 Connect Arduino to your Computer via USB and run the VB Program, your combobox will get updated automatically with all available connected ports 
 
-Step by Step instructions are given at http://www.computeraidedautomation.com/
+Step by Step instructions are given at http://computeraidedautomation.com/
